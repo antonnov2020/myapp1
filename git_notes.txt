@@ -1,0 +1,159 @@
+git notes
+
+https://www.youtube.com/watch?v=RGOj5yH7evk
+
+Git and GitHub for Beginners - Crash Course
+
+https://code.visualstudio.com/docs/editor/github
+
+https://www.jcchouinard.com/install-git-in-vscode/
+
+https://www.jcchouinard.com/create-your-first-github-project-in-vscode/
+
+Ikigai imbues you entire life
+why you wake up in the morning
+
+hara hachu bun me
+eat smaller plates
+ plant based diet
+ surround yourselves with the right people
+ 
+ 10:37 am
+ https://www.youtube.com/watch?v=SWYqp7iY_Tc
+ Git & GitHub Crash Course For Beginners
+ 
+  150  ls
+  151  cd D:
+  152  ls
+  153  cd Git/
+  154  ls
+  155  git --version
+  156  touch index.html
+  157  ls
+  158  touch app.js
+  159  ls
+  160  git init
+  161  git config --global user.name 'antonnov2020'
+  162  git config --global user.email 'antonnovero08@gmail.com'
+  163  git add index.html
+  164  git status
+  165  git rm --cached index.html
+  166  git status
+  167  git add *.html
+  168  git status
+  169  git add .
+  170  git status
+  171  git status
+  172  git status
+  173  git add .
+  174  git status
+  175  git commit
+  176  git status
+  177  git status
+  178  git add .
+  179  git commit -m 'Changed app.js'
+  180  touch .gitignore
+  181  ls
+  182  touch log.txt
+  183  git status
+  184  git add.
+  185  git status
+  186  git add .
+  187  git status
+  188  git status
+  189  git add .
+  190  git status
+  191  git branch login
+  192  git status
+  193  git commit -m 'antoher change'
+  194  git checkout login
+  195  touch login.html
+  196  git add .
+  197  git commit -m 'login form'
+  198  git checkout master
+  199  git checkout login
+  200  git checkout master
+  201  git checkout login
+  202  git checkout master
+  203  git merge login
+  204  git remote add origin https://github.com/antonnov2020/myappsample.git
+  205  git remote
+  206  git push -u origin main
+  207  git push -u origin master
+  208  touch README.md
+  209  git add .
+  210  git commit -m 'Added Readme'
+  211  git push
+  212  cd /d/myapp2/
+  213  gti clone https://github.com/antonnov2020/myappsample.git
+  214  git clone https://github.com/antonnov2020/myappsample.git
+  215  cd /d/Git
+  216  git pull
+  217  history
+
+ 
+ 02/11 11:26 am finished
+ 
+ repeat
+ https://www.youtube.com/watch?v=SWYqp7iY_Tc
+ 3:19 PM
+ 
+ Traget: https://www.crossover.com/jobs/3362/trilogy/senior-cloud-operations-engineers
+ Go to 9:44 mark
+ 
+ 260  git --version
+  261  touch index.html
+  262  touch app.js
+  263  git init
+  264  git config --list
+  265  get config --help
+  266  git config --global --unset-all core.editor
+  267  git config --list
+  268  git add index.html
+  269  git status
+  270  git rm --cached index.tml
+  271  git rm --cached index.html
+  272  git status
+  273  git *.html
+  274  git add *.html
+  275  git status
+  276  git rm --cached index.html
+  277  git add .
+  278  git status
+  279  git add .
+  280  git status
+  281  git commit
+  282  git add .
+  283  git commit -m 'Change app.js'
+  284  touch .gitignore
+  285  touch log.txt
+  286  git add .
+  287  git status
+  288  mkdir dir2
+  289  git add .
+  290  git status
+  291  git branch login
+  292  git status
+  293  git commit -m 'another change'
+  294  git checkout login
+  295  touch login.html
+  296  git add .
+  297  git commit -m 'login form'
+  298  git checkout master
+  299  git checkout login
+  300  git checkout master
+  301  git merge login
+  302  git remote
+  303  git remote add origin https://github.com/antonnov2020/myapp2.git
+  304  git remote
+  305  git push -u origin main
+  306  git push -u origin master
+  307  touch README.md
+  308  git add .
+  309  git commit -m 'README'
+  310  git push
+  311  history
+
+finished3:57 P<
+
+watch 3:58 PM
